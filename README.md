@@ -3,11 +3,11 @@
 - https://www.pixiv.net/artworks/133659974
 - https://www.pixiv.net/artworks/146715529
 
-# Coletta‑PCB 科莱塔 PCB艺术板
-> 鸣潮 科莱塔 艺术PCB | 嘉立创可生产，沉金+彩色丝印+浮雕工艺，开源项目
+# Carlotta-PCB 珂莱塔 PCB艺术板
+> 鸣潮 珂莱塔 艺术PCB | 嘉立创可生产，沉金+彩色丝印+浮雕工艺，开源项目
 
 ## 📖 项目简介
-这是面向爱好者的二次元艺术PCB装饰板，原型来自游戏《鸣潮》角色 **科莱塔**。
+这是面向爱好者的二次元艺术PCB装饰板，原型来自游戏《鸣潮》角色 **珂莱塔**。
 板卡使用沉金工艺、彩色丝印，搭配阻焊浮雕效果，将角色线稿/泳装插画制作为实体电路板。
 **无电气功能，纯艺术装饰板，不能通电。**
 
@@ -49,7 +49,7 @@
 ```
 MIT License
 
-Copyright (c) 2026 
+Copyright (c) 2026 alsunmengy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
