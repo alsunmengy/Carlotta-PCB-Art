@@ -46,31 +46,17 @@
 > 2. 板子没有任何电路，仅作为摆件收藏。
 
 ## 📜 开源协议
-```
-MIT License
 
-Copyright (c) 2026 alsunmengy
+[![CC BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+本项目采用 **CC BY-NC-SA 4.0**（署名—非商业性使用—相同方式共享 4.0 国际）协议。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- ✅ 允许：个人玩家免费下载、学习、修改、自行打样制作、无偿分享；
+- ❌ 禁止：未经书面许可用于任何商业用途——包括销售成品/套件、收费代工或代打样、商业广告、付费课程或内容、众筹、批量生产售卖；
+- ℹ️ 衍生作品需沿用相同开源协议，并注明原作者与原仓库地址；
+- 📄 完整法律文本见仓库根目录 `LICENSE` 文件。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-> 补充说明：角色形象版权归属库洛游戏，本开源仅针对PCB工程、Gerber文件；**禁止将本PCB用于商业售卖盈利，仅限个人非盈利收藏、DIY打样**。
+> 角色形象版权归原作品方所有；本开源仅针对 PCB 工程文件与 Gerber 文件本身，不构成对角色形象的授权。
 
 ## 💡 注意事项
 1. 本项目为艺术装饰PCB，**没有电路，严禁通电焊接元器件**。
