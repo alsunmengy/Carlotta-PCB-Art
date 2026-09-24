@@ -4,6 +4,8 @@
 - https://www.pixiv.net/artworks/146715529
 
 # Carlotta-PCB 珂莱塔 PCB艺术板
+[![GitHub followers](https://img.shields.io/github/followers/alsunmengy?style=social&label=Follow)](https://github.com/alsunmengy)
+
 > 鸣潮 珂莱塔 艺术PCB | 嘉立创可生产，沉金+彩色丝印+浮雕工艺，开源项目
 
 ## 📖 项目简介
