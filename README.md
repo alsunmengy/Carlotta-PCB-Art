@@ -1,12 +1,14 @@
+<a href="https://github.com/alsunmengy/Carlotta-PCB-Art/stargazers"><img src="https://raw.githubusercontent.com/alsunmengy/Carlotta-PCB-Art/main/.github/badges/star-banner" alt="点一下 Star" height="60"></a>
+<br>
+<a href="https://github.com/alsunmengy"><img src="https://raw.githubusercontent.com/alsunmengy/Carlotta-PCB-Art/main/.github/badges/follow-me" alt="关注我" height="56"></a>
+
+
 ## 素材：
 - https://www.pixiv.net/artworks/128325823
 - https://www.pixiv.net/artworks/133659974
 - https://www.pixiv.net/artworks/146715529
 
 # Carlotta-PCB 珂莱塔 PCB艺术板
-<a href="https://github.com/alsunmengy/Carlotta-PCB-Art/stargazers"><img src="https://raw.githubusercontent.com/alsunmengy/Carlotta-PCB-Art/main/.github/badges/star-banner" alt="点一下 Star" height="60"></a>
-<br>
-<a href="https://github.com/alsunmengy"><img src="https://raw.githubusercontent.com/alsunmengy/Carlotta-PCB-Art/main/.github/badges/follow-me" alt="关注我" height="56"></a>
 > 鸣潮 珂莱塔 艺术PCB | 嘉立创可生产，沉金+彩色丝印+浮雕工艺，开源项目
 
 ## Star History
