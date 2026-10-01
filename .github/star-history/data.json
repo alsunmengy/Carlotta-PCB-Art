@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "repository": "alsunmengy/Carlotta-PCB-Art",
+  "backfilledAt": "2026-10-01T11:26:10.014Z",
+  "backfill": [
+    {
+      "date": "2026-09-20",
+      "stars": 1
+    },
+    {
+      "date": "2026-09-21",
+      "stars": 2
+    },
+    {
+      "date": "2026-09-22",
+      "stars": 3
+    }
+  ],
+  "snapshots": [
+    {
+      "date": "2026-10-01",
+      "stars": 3
+    }
+  ]
+}
