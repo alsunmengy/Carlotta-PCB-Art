@@ -8,6 +8,10 @@
 
 > 鸣潮 珂莱塔 艺术PCB | 嘉立创可生产，沉金+彩色丝印+浮雕工艺，开源项目
 
+## Star History
+
+[![Star history](https://raw.githubusercontent.com/alsunmengy/Carlotta-PCB-Art/main/.github/star-history/chart.svg)](https://github.com/alsunmengy/Carlotta-PCB-Art/stargazers)
+
 ## 📖 项目简介
 这是面向爱好者的二次元艺术PCB装饰板，原型来自游戏《鸣潮》角色 **珂莱塔**。
 板卡使用沉金工艺、彩色丝印，搭配阻焊浮雕效果，将角色线稿/泳装插画制作为实体电路板。
