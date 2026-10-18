@@ -16,16 +16,33 @@ jobs:
       cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Regenerate chart (创立至今 · 角色主题色)
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 .github/scripts/gen_chart.py "$GITHUB_REPOSITORY" "#C13B5A" .github/star-history/chart.svg
-
-      - name: Commit chart
+      - name: Sync latest main (避免 push 被远端新提交拒绝)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+
+      - name: Regenerate chart (创立至今 · 珂莱塔主题色 + 插画背景)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 .github/scripts/gen_chart.py "$GITHUB_REPOSITORY" "#C13B5A" .github/star-history/chart.svg "#B07E1E" .github/star-history/bg.jpg
+
+      - name: Commit chart
+        run: |
           git add .github/star-history/chart.svg
-          git diff --cached --quiet || git commit -m "chore: update star history"
-          git push
+          if git diff --cached --quiet; then
+            echo "图表无变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore: update star history"
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            echo "第 $i 次推送失败，5 秒后重试…"
+            sleep 5
+          done
+          echo "推送失败：多次重试后仍无法推送" >&2
+          exit 1
