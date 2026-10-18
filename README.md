@@ -14,7 +14,7 @@
 
 ## Star History
 
-[![Star history](https://raw.githubusercontent.com/alsunmengy/Carlotta-PCB-Art/main/.github/star-history/chart.svg)](https://github.com/alsunmengy/Carlotta-PCB-Art/stargazers)
+[![Star history](https://raw.githubusercontent.com/alsunmengy/Carlotta-PCB-Art/main/.github/star-history/chart.svg?v=2)](https://github.com/alsunmengy/Carlotta-PCB-Art/stargazers)
 
 ## 📖 项目简介
 这是面向爱好者的二次元艺术PCB装饰板，原型来自游戏《鸣潮》角色 **珂莱塔**。
