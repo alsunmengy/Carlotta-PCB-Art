@@ -12,6 +12,17 @@
 # Carlotta-PCB 珂莱塔 PCB艺术板
 > 鸣潮 珂莱塔 艺术PCB | 嘉立创可生产，沉金+彩色丝印+浮雕工艺，开源项目
 
+## ⚠️ 购买 / 获赠前必读
+
+> **这块板子不是商品，开源也不是卖货。** 在想要一块、或者打算买 / 收下之前，请先看完这条说明：
+> 👉 **[关于我做出来的 PCB：赠送 / 售卖 / 开源](https://b23.tv/tJhAZ84)**
+>
+> - **开源协议**：CC BY-NC-SA 4.0 —— 个人可免费下载、学习、修改、自己打样，**禁止商用**。真的要卖，最多也就像我这样收个成本价。
+> - **赠送**：第一批打样板我留一张，线下送朋友几张，其余放闲鱼「到付」——用闲鱼只是为了不暴露收货地址，到手可以直接申请仅退款，闲鱼标价只当作打赏（现在 10 元，早期 5 元，因为总有人不付邮费让我垫付）。
+> - **想买**：送完之后还有人要，我会再订一批。成本约 10 元一张，闲鱼含邮费 20 元（邮费我出）。
+> - **图片出处**：有一部分来自网络、有一部分自制，README 里都标注了原作者与原帖。
+> - **找到我**：闲鱼 `alsun梦游` ｜ GitHub [`alsunmengy`](https://github.com/alsunmengy) ｜ Star 可选，不点也能用。
+
 ## Star History
 
 [![Star history](https://raw.githubusercontent.com/alsunmengy/Carlotta-PCB-Art/main/.github/star-history/chart.svg?v=2)](https://github.com/alsunmengy/Carlotta-PCB-Art/stargazers)
