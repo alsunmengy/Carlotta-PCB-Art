@@ -43,7 +43,7 @@
 
 
 ## 🛠️ 如何生产
-1. 下载Gerber文件
+1. 在 [Releases](https://github.com/alsunmengy/Carlotta-PCB-Art/releases) 下载 Gerber 压缩包与嘉立创EDA 工程源文件（`.epro2`）
 2. 参数设置：
    - 层数：2层板
    - 表面工艺：沉金
