@@ -47,6 +47,14 @@
    "proj": 14,
    "gerber": 14,
    "other": 0
+  },
+  {
+   "t": "2026-11-21T10:53:56.279007Z",
+   "date": "2026-11-21",
+   "total": 30,
+   "proj": 15,
+   "gerber": 15,
+   "other": 0
   }
  ],
  "repo": "alsunmengy/Carlotta-PCB-Art"
